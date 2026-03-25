@@ -1,2 +1,3 @@
-# estacion_meteorologica
-mi primer repo
+# Estación Meteorológica ProA 
+## Integrantes: luisana collino gomez
+* Sensor de temperatura, humedad y presión. 
