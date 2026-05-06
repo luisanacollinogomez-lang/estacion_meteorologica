@@ -20,7 +20,7 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 ### Datos:
 | Apellido y Nombre | E-mail | GitHub |
 | :---: | :---:|:---:|
-| VILLALBA, Valeria Nieves | vnvillalba@escuelasproa.edu.ar |[ver perfil](https://github.com/https://github.com/Nieves862) |
+| COLLINO, LUISANA  | lcollino@escuelasproa.edu.ar |[ver perfil](https://github.com/luisanacollinogomez-lang/estacion_meteorologica) |
 ------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------
 
